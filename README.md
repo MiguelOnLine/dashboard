@@ -2,7 +2,7 @@
 
 This is an admin dashboard template for Flutter.
 
-**[View Demo](https://flutter-admin-dashboard-d5aeb.web.app/)**
+**[View Original Demo](https://flutter-admin-dashboard-d5aeb.web.app/)**
 
 | Demo |
 | --- |
